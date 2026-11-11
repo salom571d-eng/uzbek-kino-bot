@@ -4,7 +4,7 @@ import json
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = os.getenv("8875071130:AAGHBHF1iFIACxpZOitDno-awB9rJjcu5Ac")
+TOKEN = os.getenv("8875071130:AAGUEm0iwntHkXwPTY5PaxUPf3lKKf6_ong")
 ADMIN_ID = 7208785053
 KANAL = "@kinolartop08"
 KANAL_LINK = "https://t.me/kinolartop08"
